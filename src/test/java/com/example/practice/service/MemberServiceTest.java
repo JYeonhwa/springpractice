@@ -48,7 +48,7 @@ class MemberServiceTest {
         member2.setName("spring");
         //when
         memberService.join(member1);
-        memberService.join(member2);
+//        memberService.join(member2);
 
         //then
 

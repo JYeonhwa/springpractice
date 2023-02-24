@@ -3,6 +3,7 @@ package com.example.practice.service;
 import com.example.practice.domain.Member;
 import com.example.practice.repository.MemberRepository;
 import com.example.practice.repository.MemoryMemberRepository;
+import org.springframework.stereotype.Service;
 
 import javax.swing.text.html.Option;
 import java.util.List;
